@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-->Elementos SmartPhone <-->
+    <dimen name="text_size_title">30sp</dimen>
+    <dimen name="text_size_button">14sp</dimen>
+    <dimen name="layout_marginTop_button">48sp</dimen>
+
+    <!-->Elementos Tablet <-->
+    <dimen name="tab_text_size_title">55sp</dimen>
+    <dimen name="tab_text_size_button">22sp</dimen>
+    <dimen name="tab_layout_marginTop_button">48sp</dimen>
+</resources>
